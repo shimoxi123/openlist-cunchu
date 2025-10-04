@@ -21,4 +21,4 @@
 
 官网 <https://abdownloadmanager.com/>
 
-github <https://github.com/amir1376/ab-download-manager>
+GitHub <https://github.com/amir1376/ab-download-manager>

@@ -5,4 +5,4 @@ RMT（若梦兔）是一款基于 AutoHotkey v2 的免费开源按键宏工具�
 
 说明文档 <https://zclucas.github.io/RMT/>
 
-github <https://github.com/zclucas/RMT>
+GitHub <https://github.com/zclucas/RMT>

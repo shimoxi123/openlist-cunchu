@@ -5,4 +5,4 @@
 
 官网 <https://www.7-zip.org/>
 
-github <https://github.com/sparanoid/7z>
+GitHub <https://github.com/sparanoid/7z>
